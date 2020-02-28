@@ -6,7 +6,7 @@ V2Ray 方式貌似也被封锁了，以下教程为 Trojan 教程
 3. 提交工单 24 小时内，你会收到一份教程
     ![](https://wx2.sinaimg.cn/mw690/652c38b1gy1gcc91ntndfj21l00k7dk3.jpg)
 4. 这份教程挺难看的，你只需点击教程里的第一个链接，在里面找到 Windows 章节，然后点击那个 Trojan 链接
-    ![](https://wx4.sinaimg.cn/mw690/652c38b1gy1gcc93fwhtvj21lq0h5n03.jpg）
+    ![](https://wx4.sinaimg.cn/mw690/652c38b1gy1gcc93fwhtvj21lq0h5n03.jpg)
 5. 进去之后，点击下载链接
     ![](https://wx4.sinaimg.cn/mw690/652c38b1gy1gcc9506yn7j21lg0rr7b9.jpg)
 6. 下载完 zip 后，解压到 D:\Software\Trojan-xxx\ 目录里，如下图，请确保 Trojan-xxx 目录里面有 trojan-qt5.exe
