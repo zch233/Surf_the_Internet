@@ -1,3 +1,25 @@
+V2Ray 方式貌似也被封锁了，以下教程为 Trojan 教程
+
+1. 查看网站的通知
+    ![](https://wx2.sinaimg.cn/mw690/652c38b1gy1gcc8xwfd7qj21o00o4444.jpg)
+2. 按照通知里面的链接所示，提交工单，申请开通 Trojan（读作戳间）
+3. 提交工单 24 小时内，你会收到一份教程
+    ![](https://wx2.sinaimg.cn/mw690/652c38b1gy1gcc91ntndfj21l00k7dk3.jpg)
+4. 这份教程挺难看的，你只需点击教程里的第一个链接，在里面找到 Windows 章节，然后点击那个 Trojan 链接
+    ![](https://wx4.sinaimg.cn/mw690/652c38b1gy1gcc93fwhtvj21lq0h5n03.jpg）
+5. 进去之后，点击下载链接
+    ![](https://wx4.sinaimg.cn/mw690/652c38b1gy1gcc9506yn7j21lg0rr7b9.jpg)
+6. 下载完 zip 后，解压到 D:\Software\Trojan-xxx\ 目录里，如下图，请确保 Trojan-xxx 目录里面有 trojan-qt5.exe
+    ![](https://wx4.sinaimg.cn/mw690/652c38b1gy1gcc99em164j216h0nxdjt.jpg)
+7. 双击 trojan-qt5.exe，启动程序后，任务栏右下角会出现一批小木马
+    ![](https://wx2.sinaimg.cn/mw690/652c38b1gy1gcc9avbw89j20is03nt95.jpg)
+8. 双击小木马打开如下界面，可以扫描屏幕上的二维码，或者从剪切板导入配置
+    ![](https://wx2.sinaimg.cn/mw690/652c38b1gy1gccdrxplvxj20zq0f1jtm.jpg)
+9. 待续
+
+--------
+以下是 V2Ray 方式，貌似被封锁了
+
 如果你在看第一篇教程时发现无法 FQ，这说明小飞机软件被所用的 SS 协议被上面发现了，导致你无法FQ。此时我们只能换其他协议，这篇文章介绍 V2Ray，以后简称V2R以防被和谐。
 
 你购买 SS 服务器的网站上实际上是有 V2R 的教程的（此教程简称为 SS 教程），只是你没注意看而已。在网站上点击技术支持->帮助中心，然后往下翻页，就能看到 V2R 的教程。点进去看完即可，我这里简单介绍一下步骤。
