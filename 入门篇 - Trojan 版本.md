@@ -16,7 +16,7 @@ V2Ray 方式貌似也被封锁了，以下教程为 Trojan 教程
     ![](https://wx2.sinaimg.cn/mw690/652c38b1gy1gcc9avbw89j20is03nt95.jpg)
 8. 双击小木马打开如下界面，可以扫描屏幕上的二维码，或者从剪切板导入配置
     ![](https://wx2.sinaimg.cn/mw690/652c38b1gy1gccdrxplvxj20zq0f1jtm.jpg)
-9. 然后选择一个 ip 进行连接，注意不是所有 ip 都能成功，多试几个：
+9. 然后选择一个 ip 进行连接，注意不是所有 ip 都能成功，多试几个（注意切换 ip 的时候，需要先断开之前的连接，才能连接新的 ip）：
     ![](https://wx3.sinaimg.cn/mw690/652c38b1gy1gceqb7hv7kj210j0pjwp1.jpg)
 10. 每次连接一个 ip 之后，你都需要通过 1080 端口上网，才能翻墙，如何通过 1080 端口上网需要看我的第二篇教程，教你用 Chrome 插件。
 
