@@ -14,7 +14,7 @@ V2Ray 方式貌似也被封锁了，以下教程为 Trojan 教程
     ![](https://wx4.sinaimg.cn/mw690/652c38b1gy1gcc99em164j216h0nxdjt.jpg)
 7. 双击 trojan-qt5.exe，启动程序后，任务栏右下角会出现一批小木马
     ![](https://wx2.sinaimg.cn/mw690/652c38b1gy1gcc9avbw89j20is03nt95.jpg)
-8. 双击小木马打开如下界面，可以扫描屏幕上的二维码，或者从剪切板导入配置
+8. 单击小木马打开如下界面，可以扫描屏幕上的二维码，或者从剪切板导入配置
     ![](https://wx2.sinaimg.cn/mw690/652c38b1gy1gccdrxplvxj20zq0f1jtm.jpg)
 9. 然后选择一个 ip 进行连接，注意不是所有 ip 都能成功，多试几个（注意切换 ip 的时候，需要先右键断开之前的连接，才能连接新的 ip；不然端口就冲突了）：
     ![](https://wx3.sinaimg.cn/mw690/652c38b1gy1gceqb7hv7kj210j0pjwp1.jpg)
