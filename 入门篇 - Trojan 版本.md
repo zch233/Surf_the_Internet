@@ -1,12 +1,7 @@
 V2Ray 方式貌似也被封锁了，以下教程为 Trojan 教程
 
-1. 查看网站顶部的通知
-    
-    ![](https://wx2.sinaimg.cn/mw690/652c38b1gy1gcc8xwfd7qj21o00o4444.jpg)
-2. 按照通知里面的链接所示，提交工单，申请开通 Trojan（读作戳间）
-3. 提交工单 24 小时内，你会收到一份教程
-    ![](https://wx2.sinaimg.cn/mw690/652c38b1gy1gcc91ntndfj21l00k7dk3.jpg)
-4. 这份教程挺难看的，你只需点击教程里的第一个链接，在里面找到 Windows 章节，然后点击那个 Trojan 链接
+1. 查看网站顶部的通知，进入通知里面的[第一个链接](https://portal.shadowsocks.nl/get-trojan.php)，开通 Trojan（读作戳间）
+4. 然后点击通知的第二个链接，你会来到《Trojan 服务客户端设置教程索引》。然后你只需点击教程里的第一个链接，在里面找到 Windows 章节，然后点击 「【Windows】 Trojan-QT5 设置方法」链接
     ![](https://wx4.sinaimg.cn/mw690/652c38b1gy1gcc93fwhtvj21lq0h5n03.jpg)
 5. 进去之后，点击下载链接
     ![](https://wx4.sinaimg.cn/mw690/652c38b1gy1gcc9506yn7j21lg0rr7b9.jpg)
